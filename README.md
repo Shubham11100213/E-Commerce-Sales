@@ -24,6 +24,6 @@ This project has enriched our data analysis skills, with a specific focus on for
 
 To explore the E-commerce Sales Dashboard, follow these steps:
 
-1. [Click here](#) to access the live dashboard.
+1. [Click here](#)https://github.com/Shubham11100213/E-Commerce-Sales/blob/main/Ecommerce%20Sales%20Data.pbix to access the live dashboard.
 
 2. Share your feedback and insights; we value your input.
