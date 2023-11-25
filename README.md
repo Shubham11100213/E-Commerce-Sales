@@ -24,6 +24,6 @@ This project has enriched our data analysis skills, with a specific focus on for
 
 To explore the E-commerce Sales Dashboard, follow these steps:
 
-1. Click on the [Dashboard Link](https://github.com/Shubham11100213/E-Commerce-Sales/blob/main/Ecommerce%20Sales%20Data.pbix)https://github.com/Shubham11100213/E-Commerce-Sales/blob/main/Ecommerce%20Sales%20Data.pbix) to access the dashboard. 
+1. Click on the [Dashboard Link](https://github.com/Shubham11100213/E-Commerce-Sales/blob/main/Ecommerce%20Sales%20Data.pbix to access the dashboard. 
 
 2. Share your feedback and insights; we value your input.
